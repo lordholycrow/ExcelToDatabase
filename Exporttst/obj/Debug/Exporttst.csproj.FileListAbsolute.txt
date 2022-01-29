@@ -1,0 +1,10 @@
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\bin\Debug\Exporttst.exe.config
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\bin\Debug\Exporttst.exe
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\bin\Debug\Exporttst.pdb
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\obj\Debug\Exporttst.csprojResolveAssemblyReference.cache
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\obj\Debug\Exporttst.Form1.resources
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\obj\Debug\Exporttst.Properties.Resources.resources
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\obj\Debug\Exporttst.csproj.GenerateResource.Cache
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\obj\Debug\Exporttst.csproj.CoreCompileInputs.cache
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\obj\Debug\Exporttst.exe
+C:\Users\selim.koksal\Desktop\Exporttst\Exporttst\obj\Debug\Exporttst.pdb
